@@ -9,18 +9,18 @@
 <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
-        <img alt="arpitmiahra4 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitmiahra4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+        <img alt="prajeshsrivastava Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajeshsrivastava&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </p>      
            <br/>
          <p align="center">
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="arpitmiahra4 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitmiahra4&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="prajeshsrivastava streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prajeshsrivastava&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
              <p align="center">                                                                                                 
           <img alt="prajeshsrivastava Github Stats" src="https://github-readme-stats.vercel.app/api?username=prajeshsrivastava&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
           </p>                                                                
       <br/>
       <div align="center"  >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arpitmiahra4&column=7&theme=onedark"" />
+    <img src="https://github-profile-trophy.vercel.app/?username=prajeshsrivastava&column=7&theme=onedark"" />
   </a>
 <div>
       <br/>
