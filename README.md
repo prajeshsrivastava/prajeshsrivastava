@@ -3,14 +3,9 @@
 <h3 align="center">A passionate Python Developer from kashi.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-- 📫 How to reach me **arpitmiahra4@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 - ⚡ Fun fact **While Sleeping my mind is Debugging my code.** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arpitmiahra4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitmiahra4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arpit mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit mishra" height="30" width="40" /></a>
-<a href="https://fb.com/arpit mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arpit mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/a_r_p_i_t_m_ishra__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_r_p_i_t_m_ishra__" height="30" width="40" /></a>
 </p>
 ## 🚀 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,hibernate,react,nodejs,bootstrap,cpp,git,netlify,idea,eclipse,vscode,figma,ps,redux,tailwind,materialui,vercel,vscode,postman,nextjs,express)](https://skillicons.dev)
