@@ -5,10 +5,6 @@
 
 - ⚡ Fun fact **While Sleeping my mind is Debugging my code.** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-## 🚀 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,hibernate,react,nodejs,bootstrap,cpp,git,netlify,idea,eclipse,vscode,figma,ps,redux,tailwind,materialui,vercel,vscode,postman,nextjs,express)](https://skillicons.dev)
 <br>
 <h2 align="center">📊 My Github Stats</h2>
          <br/>   
