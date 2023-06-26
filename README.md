@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - ⚡ Fun fact **While Sleeping my mind is Debugging my code.** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
-<h3 align="left">Connect with me:</h3>
 <br>
 <h2 align="center">📊 My Github Stats</h2>
          <br/>   
@@ -27,7 +26,5 @@
 <p align="center">
   <i>Ask me anything I'am Happy to Help! </i>
   <br><br>
-<a target="_blank" href="https://www.linkedin.com/in/arpit-mishra-662199222/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:arpitmiahra4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
