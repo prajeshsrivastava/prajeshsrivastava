@@ -1,10 +1,8 @@
 [![MasterHead](https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)](https://arpitmiahra4@gmail.com)
-<h1 align="center">Hi 👋, I'm Arpit Mishra</h1>
-<h3 align="center">A passionate Full-Stack developer {MERN Stack} from Indore.</h3>
+<h1 align="center">Hi 👋, I'm Prajesh Srivastava</h1>
+<h3 align="center">A passionate Python Developer from kashi.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitmiahra4&label=Profile%20views&color=0e75b6&style=flat" alt="arpitmiahra4" /> </p>
-<p align="left"> <a href="https://twitter.com/arpitmiahra4" target="blank"><img src="https://img.shields.io/twitter/follow/arpitmiahra4?logo=twitter&style=for-the-badge" alt="arpitmiahra4" /></a> </p>
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, NodeJs, Express, MongoDB, Mongoose, REST_API, ElectronJs, Git & Bash**
 - 👨‍💻 Checkout my [Portfolio](https://arpitmishraportfolio.vercel.app/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
  <!-- Resume -->
