@@ -3,10 +3,6 @@
 <h3 align="center">A passionate Python Developer from kashi.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, NodeJs, Express, MongoDB, Mongoose, REST_API, ElectronJs, Git & Bash**
-- 👨‍💻 Checkout my [Portfolio](https://arpitmishraportfolio.vercel.app/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
- <!-- Resume -->
--  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1EO292lCbCL84BSpWxFVvUlVQTDhia5Vr/view?usp=share_link) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 - 📫 How to reach me **arpitmiahra4@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 - ⚡ Fun fact **While Sleeping my mind is Debugging my code.** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 <h3 align="left">Connect with me:</h3>
