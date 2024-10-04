@@ -17,11 +17,11 @@
           <img alt="prajeshsrivastava Github Stats" src="https://github-readme-stats.vercel.app/api?username=prajeshsrivastava&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
           </p>                                                                
       <br/>
-      <div align="center"  >
+<!--       <div align="center"  >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=prajeshsrivastava&column=7&theme=onedark"" />
   </a>
-<div>
+<div> -->
       <br/>
 <p align="center">
   <i>Ask me anything I'am Happy to Help! </i>
